@@ -1,0 +1,212 @@
+{
+  "user_name": "小明",
+  "user_id": 7,
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1147375?v=3&s=120",
+  "phone_number": "153xxxx0123",
+  "card_summary": [{
+    "title": "消费总金额",
+    "summary_all": "12000",
+    "tab1": {
+      "desc": "储蓄卡消费明细",
+      "summary_each": "5000",
+      "cards": [{
+          "card1": "a1"
+        },
+        {
+          "card2": "a2"
+        },
+        {
+          "card3": "a3"
+        }
+      ]
+    },
+    "tab2": {
+      "desc": "记账卡消费明细",
+      "summary_each": "7000",
+      "cards": [{
+          "card1": "b1"
+        },
+        {
+          "card2": "b2"
+        },
+        {
+          "card3": "b3"
+        }
+      ]
+    }
+  }, {
+    "title": "圈存/还款总金额",
+    "summary_all": "13000",
+    "tab1": {
+      "desc": "储蓄卡圈存明细",
+      "summary_each": "5000",
+      "cards": [{
+          "card1": "a1"
+        },
+        {
+          "card2": "a2"
+        },
+        {
+          "card3": "a3"
+        }
+      ]
+    },
+    "tab2": {
+      "desc": "记账卡还款明细",
+      "summary_each": "7000",
+      "cards": [{
+          "card1": "b1"
+        },
+        {
+          "card2": "b2"
+        },
+        {
+          "card3": "b3"
+        }
+      ]
+    }
+  }, {
+    "title": "我的账单",
+    "summary_all": "1000",
+    "tab1": {
+      "desc": "未还款",
+      "summary_each": "5000",
+      "cards": [{
+          "card1": "a1"
+        },
+        {
+          "card2": "a2"
+        },
+        {
+          "card3": "a3"
+        }
+      ]
+    },
+    "tab2": {
+      "desc": "已还款",
+      "summary_each": "7000",
+      "cards": [{
+          "card1": "b1"
+        },
+        {
+          "card2": "b2"
+        },
+        {
+          "card3": "b3"
+        }
+      ]
+    }
+  }, {
+    "title": "我的卡片",
+    "summary_all": "19000",
+    "tab1": {
+      "desc": "储蓄卡",
+      "summary_each": "5000",
+      "cards": [{
+          "card1": "a1"
+        },
+        {
+          "card2": "a2"
+        },
+        {
+          "card3": "a3"
+        }
+      ]
+    },
+    "tab2": {
+      "desc": "记账卡",
+      "summary_each": "7000",
+      "cards": [{
+          "card1": "b1"
+        },
+        {
+          "card2": "b2"
+        },
+        {
+          "card3": "b3"
+        }
+      ]
+    }
+  }],
+  "messages": [{
+      "title": "还款提示信息",
+      "detail": [{
+          "account": "上海易通",
+          "icon": "https://avatars2.githubusercontent.com/u/1147375?v=3&s=120",
+          "time": "2016-02-12 12:23",
+          "class": "8月账单",
+          "deadline": "2016-03-12",
+          "payment": 2311
+        },
+        {
+          "account": "上海易通",
+          "icon": "http://icons.iconarchive.com/icons/designbolts/free-multimedia/1024/iMac-icon.png",
+          "time": "2016-02-12 12:23",
+          "class": "9月账单",
+          "deadline": "2016-03-12",
+          "payment": 2534
+        }
+      ]
+    },
+    {
+      "title": "额度提示信息",
+      "detail": [{
+          "account": "上海易通",
+          "icon": "https://avatars2.githubusercontent.com/u/1147375?v=3&s=120",
+          "time": "2016-02-12 12:23",
+          "class": "8月账单",
+          "deadline": "2016-03-12",
+          "payment": 2311
+        },
+        {
+          "account": "上海易通",
+          "icon": "http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/sign-check-icon.png",
+          "time": "2016-02-12 12:23",
+          "class": "9月账单",
+          "deadline": "2016-03-12",
+          "payment": 2534
+        }
+      ]
+    },
+    {
+      "title": "卡片变更信息",
+      "detail": [{
+          "account": "上海易通",
+          "icon": "https://avatars2.githubusercontent.com/u/1147375?v=3&s=120",
+          "time": "2016-02-12 12:23",
+          "class": "8月账单",
+          "deadline": "2016-03-12",
+          "payment": 2311
+        },
+        {
+          "account": "上海易通",
+          "icon": "http://www.psdgraphics.com/file/refresh-icon-1280x1024.jpg",
+          "time": "2016-02-12 12:23",
+          "class": "9月账单",
+          "deadline": "2016-03-12",
+          "payment": 2534
+        }
+      ]
+    },
+    {
+      "title": "账单生成信息",
+      "detail": [{
+          "account": "上海易通",
+          "icon": "https://avatars2.githubusercontent.com/u/1147375?v=3&s=120",
+          "time": "2016-02-12 12:23",
+          "class": "8月账单",
+          "deadline": "2016-03-12",
+          "payment": 2311
+        },
+        {
+          "account": "上海易通",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Skype-icon.png",
+          "time": "2016-02-12 12:23",
+          "class": "9月账单",
+          "deadline": "2016-03-12",
+          "payment": 2534
+        }
+      ]
+    }
+  ]
+}
